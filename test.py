@@ -12,6 +12,3 @@ else:
         print("Error: Could not read frame.")
     cap.release()
     cv2.destroyAllWindows()
-
-
-#pull
