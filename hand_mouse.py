@@ -1,7 +1,7 @@
 import cv2
-import mediapipe as mp
-import pyautogui
-import numpy as np
+import mediapipe as mp #use for hand tracking
+import pyautogui #use for mouse control
+import numpy as np 
 import time  # Added to fix NameError
 
 # Initialize MediaPipe Hands
